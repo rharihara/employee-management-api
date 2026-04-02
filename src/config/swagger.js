@@ -13,6 +13,10 @@ const options = {
         url: 'http://localhost:5000',
         description: 'Local server',
       },
+      {
+        url: 'https://employee-management-api-ydkp.onrender.com',
+        description: 'Live server',
+      },
     ],
     components: {
       securitySchemes: {

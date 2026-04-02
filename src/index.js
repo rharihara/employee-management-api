@@ -20,12 +20,12 @@ app.use('/api/employees', employeeRoutes);
 app.get('/', (req, res) => {
   res.json({ 
     message: 'Employee Management API!',
-    docs: 'http://localhost:5000/api-docs'
+    docs: 'https://employee-management-api-ydkp.onrender.com/api-docs'
   });
 });
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
-  console.log(`Swagger docs at http://localhost:5000/api-docs`);
+  console.log(`Swagger docs at https://employee-management-api-ydkp.onrender.com/api-docs`);
 });
