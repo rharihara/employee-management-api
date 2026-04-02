@@ -65,7 +65,7 @@ employee-management-api/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-management-api.git
+git clone https://github.com/rharihara/employee-management-api.git
 cd employee-management-api
 ```
 
@@ -148,5 +148,5 @@ docker-compose logs -f
 ## 👨‍💻 Author
 
 **Hari Haran**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@rharihara](https://github.com/rharihara)
 - Email: hariram10121995@gmail.com
